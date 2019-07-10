@@ -1,5 +1,7 @@
 # ReactSpringBoot
 Practice ReactJS/Spring/SpringBoot
 
-## Env
+## SetUp
+npm start
+
 
